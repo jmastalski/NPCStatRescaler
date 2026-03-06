@@ -1,8 +1,8 @@
 {
-  "Nickname": "NPCStatRescaler",
+  "Nickname": "NPC Stat Rescaler",
   "Visibility": "Visible",
-  "OneLineDescription": "Port of NPC Stat Rescaler: https://www.nexusmods.com/skyrimspecialedition/mods/24254",
-  "LongDescription": "Port of NPC Stat Rescaler\nhttps://www.nexusmods.com/skyrimspecialedition/mods/24254",
+  "OneLineDescription": "Synthesis port of NPC Stat Rescaler (zEdit) by tjhm4.",
+  "LongDescription": "Synthesis port of NPC Stat Rescaler (zEdit) by tjhm4.\nhttps://www.nexusmods.com/skyrimspecialedition/mods/24254",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": []
 }
